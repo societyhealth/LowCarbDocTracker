@@ -5,7 +5,7 @@ Steps to contribute:
   - Add, Eric Westman
   - Edit, Eric Westman
 3. Claim that issue in the issue's comments section.
-4. Make the edit, create a pull request, wait for it to merge, any submission without proof will be rejected.
+4. Make the edit, create a pull request, wait for it to merge, any submission without legitimate source will be rejected.
 
 This way we make sure we don't step on each other's foot, and we have a collective list of low-carb doctors.
 
