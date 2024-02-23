@@ -1,4 +1,4 @@
-# LowCarbDocTracker
+# Low-Carb Doctor Tracker
 This repository tracks the low carb/carnivore/keto doctors with legitimate credentials.
 
 | Name | Education | Residency & Fellowship | Specialization | Titles | Practice | Country | Link |
