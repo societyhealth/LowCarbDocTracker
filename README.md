@@ -1,5 +1,6 @@
 # Low-Carb Doctor Tracker
-This repository tracks the low carb/carnivore/keto doctors with legitimate credentials.
+This repository tracks the low carb/carnivore/keto doctors with legitimate credentials. Not saying an MD is required to give nutritional advice, as medical schools don't really teach nutrition, but I'd like to see doctors reflecting on some of the controversial topics from their standpoint.
+
 Steps to contribute:
 1. Create an issue to either add or edit a row. Issue format: Action, Name. Examples:
   - Add, Eric Westman
